@@ -1,2 +1,3 @@
-# gitctrlx.github.io
+# Good Blog
+
 A Blog.

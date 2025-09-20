@@ -1,0 +1,27 @@
+{
+  "title": "Good Blog",
+  "subtitle": "Dao",
+  "owner": {
+    "name": "Good Blog",
+    "email": "x@qntx.fun"
+  },
+  "social": {
+    "github": "gitctrlx",
+    "medium": "gitctrlx",
+    "twitter": "gitctrlx"
+  },
+  "newsletter": {
+    "showTwitterBanner": true,
+    "currentCount": "",
+    "revueUsername": ""
+  },
+  "seo": {
+    "title": "Good Blog",
+    "description": "Dao",
+    "author": "Good Blog",
+    "keywords": [
+      "blog"
+    ]
+  },
+  "cname": "x.qntx.fun"
+}
