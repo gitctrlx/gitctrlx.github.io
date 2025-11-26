@@ -1,3 +1,3 @@
-# X's Good Blog
+# The timeless zero
 
-Dao
+You are the timeless zero dreaming time.
